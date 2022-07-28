@@ -1,0 +1,215 @@
+{
+  "jobs": [
+    {
+      "id": "15554",
+      "title": "Frontend Developer",
+      "type": "Contract",
+      "salary": "35000",
+      "location": "Remote",
+      "company": "HLC Infotech",
+      "city": "Kolkata",
+      "skills": [
+        "Javascript",
+        "React",
+        "Material UI",
+        "Angular"
+      ],
+      "description": "UI developer needed"
+    },
+    {
+      "id": "22520",
+      "title": "Backend Developer",
+      "type": "Part Time",
+      "salary": "",
+      "location": "Remote",
+      "company": "Electra Software Solutions",
+      "city": "Mumbai",
+      "skills": [
+        "MongoDB",
+        "Node",
+        "Firebase"
+      ],
+      "description": "Backend Developer Needed"
+    },
+    {
+      "id": "25220",
+      "title": "System Engineer",
+      "type": "Full Time",
+      "salary": "50000",
+      "location": "Office",
+      "company": "TechFin India Ltd",
+      "city": "Hyderabad",
+      "skills": [
+        "MongoDB",
+        "Angular",
+        "Firebase"
+      ],
+      "description": "System engineer needed"
+    },
+    {
+      "id": "26778",
+      "title": "Web Designer",
+      "type": "Full Time",
+      "salary": "70000",
+      "location": "Remote",
+      "company": "Webtech India ltd",
+      "city": "Noida",
+      "skills": [
+        "Node",
+        "MongoDB",
+        "Angular"
+      ],
+      "description": "UI Designer needed"
+    },
+    {
+      "id": "27295",
+      "title": "Database Designer ",
+      "type": "Part Time",
+      "salary": "50000",
+      "location": "Remote",
+      "company": "Ultra Data Solutions Ltd",
+      "city": "Delhi",
+      "skills": [
+        "Firebase",
+        "MongoDB"
+      ],
+      "description": "Data Designer needed"
+    },
+    {
+      "id": "10077",
+      "title": "React js developer",
+      "type": "Contract",
+      "salary": "30000",
+      "location": "Remote",
+      "company": "Audacious",
+      "city": "Indore",
+      "skills": [
+        "Javascript",
+        "React",
+        "Node",
+        "MongoDB",
+        "Angular"
+      ],
+      "description": "Their is huge vacancy in React JS"
+    }
+  ],
+  "applications": [
+    {
+      "id": 1,
+      "name": "sanjeev",
+      "email": "sanjeev@gmail.com",
+      "salary": "20000",
+      "notice": "15 Days",
+      "skills": [
+        "React",
+        "Node",
+        "Firebase",
+        "Material UI"
+      ],
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "radhika",
+      "email": "radhe@gmail.com",
+      "salary": "25000",
+      "notice": "15 Days",
+      "skills": [
+        "Javascript",
+        "React"
+      ],
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "name": "ranjana",
+      "email": "ranjana@gmail.com",
+      "salary": "25000",
+      "notice": "15 Days",
+      "skills": [
+        "Javascript",
+        "React",
+        "Node",
+        "MongoDB"
+      ],
+      "notes": ""
+    }
+  ],
+  "shortlisted": [
+    {
+      "id": "GR18tYx",
+      "name": "Sanjeev Kumar",
+      "email": "snjv52@email.com",
+      "salary": "35000",
+      "notice": "15 Days",
+      "skills": [
+        "MongoDB",
+        "Angular"
+      ],
+      "notes": "Hire me "
+    },
+    {
+      "id": "dCq26Xi",
+      "name": "Mohan Kumar",
+      "email": "mohan@gmail.com",
+      "salary": "3460",
+      "notice": "15 Days",
+      "skills": [
+        "React",
+        "Node",
+        "MongoDB",
+        "Material UI"
+      ],
+      "notes": "I am mohan and want a job"
+    },
+    {
+      "id": "y2cj_Um",
+      "name": "Sudipa Paul",
+      "email": "sudipa@gmail.com",
+      "salary": "90000",
+      "notice": "15 Days",
+      "skills": [
+        "React",
+        "Node",
+        "MongoDB",
+        "Javascript",
+        "Firebase"
+      ],
+      "notes": "I am eligible for this job"
+    },
+    {
+      "id": "dQ90saY",
+      "name": "Naveen Singh",
+      "email": "naveensingh@gmail.com",
+      "salary": "50000",
+      "notice": "15 Days",
+      "skills": [
+        "Javascript",
+        "React",
+        "Node",
+        "MongoDB",
+        "Angular",
+        "Firebase",
+        "Material UI"
+      ],
+      "notes": "I need this job"
+    },
+    {
+      "id": 1,
+      "name": "Hansal Mehta",
+      "email": "hansalfriendly@gmail.com",
+      "salary": "30000",
+      "notice": "15 Days",
+      "skills": [
+        "MongoDB",
+        "Angular",
+        "Firebase",
+        "Material UI",
+        "Node",
+        "Javascript",
+        "React"
+      ],
+      "notes": "I want this job "
+    }
+  ]
+}
